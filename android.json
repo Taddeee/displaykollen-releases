@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
-  "versionCode": 4,
-  "url": "https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/android/DisplaykollenSamsung-1.6.0.apk",
-  "sha256": "2616f4441531abb7ac846b01a105d3a6e22e2ba120d973e587fc975cba1a2b9d",
-  "notes_sv": "Första utgåvan.",
-  "notes_en": "First release."
+  "version": "1.6.1",
+  "versionCode": 5,
+  "url": "https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/android/DisplaykollenSamsung-1.6.1.apk",
+  "sha256": "7e24a1ba548d0a837fdc9dff925c5c37494262fb5c1c1f437a6e4711bd9e9850",
+  "notes_sv": "Testutgåva för att prova uppdateringsknappen. Inga nya funktioner.",
+  "notes_en": "Test release to try the update button. No new features."
 }

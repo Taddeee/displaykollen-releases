@@ -5,6 +5,15 @@
     <description>Uppdateringar för Displaykollen</description>
     <language>sv</language>
     <item>
+      <title>Version 0.2.1</title>
+      <pubDate>Wed, 25 Nov 2026 14:47:17 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Testutgåva för att prova uppdateringsknappen. Inga nya funktioner.</description>
+      <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.1.dmg" sparkle:edSignature="YniF/I8xkLoe7LOPLnFvd+TUIhIghX4csdXV06pdHGiPnpROt3430kWW1F/XuNuheYQWlzVlxfgt49E1c1IfCw==" length="7095346" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.2.0</title>
       <pubDate>Wed, 25 Nov 2026 14:06:32 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
