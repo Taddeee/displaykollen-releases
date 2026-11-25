@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Displaykollen</title>
+    <description>Uppdateringar för Displaykollen</description>
+    <language>sv</language>
+    <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Wed, 25 Nov 2026 14:06:32 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Första utgåvan.</description>
+      <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.0.dmg" sparkle:edSignature="I/gqeaj7ox6qHHCbnPLCiGHHwwsdGtxdSnv7XPvvv7o88eWdktrCmJeL+L/18Dr21nBeA/SAYEiv8BqovGmPBg==" length="7095251" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
