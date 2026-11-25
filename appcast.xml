@@ -5,6 +5,15 @@
     <description>Uppdateringar för Displaykollen</description>
     <language>sv</language>
     <item>
+      <title>Version 0.2.2</title>
+      <pubDate>Wed, 25 Nov 2026 22:54:40 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Rättar en krasch när flera eller lovade filer (t.ex. från Bilder, Safari eller Mail) släpps på en hylla. Luppen i områdesmarkering, färgväljare och linjal är mycket snabbare. Volymtangenterna styr nu DDC-volym på fler skärmar, med finare steg nedtill och ⌥⇧ för steg om 1.</description>
+      <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.2.dmg" sparkle:edSignature="OGM33LQXZlOQ+35/vEfcnuhM32OdGrlMT0hZ2jrDlf5PLtrOOMAGEo1iPYy/UNdLbcO24W2Bja6AEGoJadIhCQ==" length="7206158" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.2.1</title>
       <pubDate>Wed, 25 Nov 2026 14:47:17 GMT</pubDate>
       <sparkle:version>3</sparkle:version>
