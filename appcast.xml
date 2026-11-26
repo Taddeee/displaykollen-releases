@@ -5,6 +5,15 @@
     <description>Uppdateringar för Displaykollen</description>
     <language>sv</language>
     <item>
+      <title>Version 0.2.6</title>
+      <pubDate>Thu, 26 Nov 2026 23:19:34 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Volymtangenterna styr DDC-skärmar (t.ex. Philips 49M2C8900L) pålitligt igen: ett tillfälligt fel ger inte längre meddelandet 'Volymen styrs på skärmen', och alla DDC-kommandon mot en skärm går i tur och ordning.</description>
+      <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.6.dmg" sparkle:edSignature="Gx1ijiSqLfXaSTAGf3A4q+JMZeKB+rGNojcqPvoI/hatHwvPMG+kaKTQXHU/0YHakW0M1MzG1Lz7lGRLxNpKCQ==" length="7775347" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.2.5</title>
       <pubDate>Thu, 26 Nov 2026 17:05:16 GMT</pubDate>
       <sparkle:version>7</sparkle:version>
@@ -21,15 +30,6 @@
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <description>Plattans riktiga ljusstyrka styrs nu från Macen (reglage, ljusstyrketangenter och kortkommandon), med knappen Följ plattans egen ljusstyrka. Volymreglaget är tillbaka på skärmkorten. Menyfönstret hoppar inte längre när en skärmmodul fälls ut eller när du klickar i den. Uppdatera Macen före plattan.</description>
       <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.4.dmg" sparkle:edSignature="ZM/XTvOtN2n+3UzCjJODgLVuHJwSoVZT0i15voa0/liD38epGtU39nu4YWjr89RxQmHsTnC3uh/tIIkQTHjzAQ==" length="7685601" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.2.3</title>
-      <pubDate>Thu, 26 Nov 2026 10:50:14 GMT</pubDate>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>Menyn är nu kompakt: varje del visas som en rad och fälls ut vid behov. Ny funktion: Skicka felrapport under Hjälp och Inställningar, med förhandsvisning av allt innan något delas. Appen frågar efter en krasch om du vill skicka en rapport.</description>
-      <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.3.dmg" sparkle:edSignature="2oQlbENgNKRe7kFgu2+hsU2JZjqeai2C0SAK4da2B7F5I+8CEhgASxjlvrlrkx0eE7DiG6EONhDqMnlojlv4Dg==" length="7583165" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
