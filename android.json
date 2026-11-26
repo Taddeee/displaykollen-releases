@@ -1,8 +1,8 @@
 {
-  "version": "1.6.2",
-  "versionCode": 6,
-  "url": "https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/android/DisplaykollenSamsung-1.6.2.apk",
-  "sha256": "ccd3af9d31d5d7130233622e8154e659b6c06ae32c3f9e7cc52495a910c10d18",
-  "notes_sv": "Ny funktion: Skicka felrapport under Inställningar. Appen sparar kraschspår lokalt och frågar efter en krasch om du vill skicka en rapport. Du ser hela innehållet innan något delas, och kända personuppgifter tas bort automatiskt.",
-  "notes_en": "New: Send bug report in Settings. The app keeps crash traces locally and asks after a crash whether you want to send a report. You see everything before anything is shared, and known personal data is removed automatically."
+  "version": "1.6.3",
+  "versionCode": 7,
+  "url": "https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/android/DisplaykollenSamsung-1.6.3.apk",
+  "sha256": "cf6a05118f84b48a028543185ebe176fb2a6f5f73febce8077c088bb94961d7d",
+  "notes_sv": "Plattans riktiga ljusstyrka styrs nu från Macen (reglage, ljusstyrketangenter och kortkommandon), med knappen Följ plattans egen ljusstyrka. Volymreglaget är tillbaka på skärmkorten. Menyfönstret hoppar inte längre när en skärmmodul fälls ut eller när du klickar i den. Uppdatera Macen före plattan.",
+  "notes_en": "The tablet's real brightness is now controlled from the Mac (slider, brightness keys and shortcuts), with a Follow the tablet's own brightness button. The volume slider is back on the display cards. The menu window no longer jumps when a display module expands or when you click inside it. Update the Mac before the tablet."
 }

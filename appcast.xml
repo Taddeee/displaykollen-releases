@@ -5,6 +5,15 @@
     <description>Uppdateringar för Displaykollen</description>
     <language>sv</language>
     <item>
+      <title>Version 0.2.4</title>
+      <pubDate>Thu, 26 Nov 2026 13:24:05 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Plattans riktiga ljusstyrka styrs nu från Macen (reglage, ljusstyrketangenter och kortkommandon), med knappen Följ plattans egen ljusstyrka. Volymreglaget är tillbaka på skärmkorten. Menyfönstret hoppar inte längre när en skärmmodul fälls ut eller när du klickar i den. Uppdatera Macen före plattan.</description>
+      <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.4.dmg" sparkle:edSignature="ZM/XTvOtN2n+3UzCjJODgLVuHJwSoVZT0i15voa0/liD38epGtU39nu4YWjr89RxQmHsTnC3uh/tIIkQTHjzAQ==" length="7685601" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.2.3</title>
       <pubDate>Thu, 26 Nov 2026 10:50:14 GMT</pubDate>
       <sparkle:version>5</sparkle:version>
@@ -21,15 +30,6 @@
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <description>Rättar en krasch när flera eller lovade filer (t.ex. från Bilder, Safari eller Mail) släpps på en hylla. Luppen i områdesmarkering, färgväljare och linjal är mycket snabbare. Volymtangenterna styr nu DDC-volym på fler skärmar, med finare steg nedtill och ⌥⇧ för steg om 1.</description>
       <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.2.dmg" sparkle:edSignature="OGM33LQXZlOQ+35/vEfcnuhM32OdGrlMT0hZ2jrDlf5PLtrOOMAGEo1iPYy/UNdLbcO24W2Bja6AEGoJadIhCQ==" length="7206158" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.2.1</title>
-      <pubDate>Wed, 25 Nov 2026 14:47:17 GMT</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>Testutgåva för att prova uppdateringsknappen. Inga nya funktioner.</description>
-      <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.1.dmg" sparkle:edSignature="YniF/I8xkLoe7LOPLnFvd+TUIhIghX4csdXV06pdHGiPnpROt3430kWW1F/XuNuheYQWlzVlxfgt49E1c1IfCw==" length="7095346" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
