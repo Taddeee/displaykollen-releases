@@ -1,8 +1,8 @@
 {
-  "version": "1.6.1",
-  "versionCode": 5,
-  "url": "https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/android/DisplaykollenSamsung-1.6.1.apk",
-  "sha256": "7e24a1ba548d0a837fdc9dff925c5c37494262fb5c1c1f437a6e4711bd9e9850",
-  "notes_sv": "Testutgåva för att prova uppdateringsknappen. Inga nya funktioner.",
-  "notes_en": "Test release to try the update button. No new features."
+  "version": "1.6.2",
+  "versionCode": 6,
+  "url": "https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/android/DisplaykollenSamsung-1.6.2.apk",
+  "sha256": "ccd3af9d31d5d7130233622e8154e659b6c06ae32c3f9e7cc52495a910c10d18",
+  "notes_sv": "Ny funktion: Skicka felrapport under Inställningar. Appen sparar kraschspår lokalt och frågar efter en krasch om du vill skicka en rapport. Du ser hela innehållet innan något delas, och kända personuppgifter tas bort automatiskt.",
+  "notes_en": "New: Send bug report in Settings. The app keeps crash traces locally and asks after a crash whether you want to send a report. You see everything before anything is shared, and known personal data is removed automatically."
 }
