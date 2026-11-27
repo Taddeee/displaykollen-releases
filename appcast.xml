@@ -5,6 +5,15 @@
     <description>Uppdateringar för Displaykollen</description>
     <language>sv</language>
     <item>
+      <title>Version 0.2.8</title>
+      <pubDate>Fri, 27 Nov 2026 23:49:28 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Sök efter uppdatering jämför nu den installerade versionen med GitHub och med repot. Du får alltså inte längre beskedet 'senaste versionen' när en nyare version finns.</description>
+      <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.8.dmg" sparkle:edSignature="YDUUHrNWdl/jC3vOgliHxCco5J2/Tl4kMgKFEd28vv0C34WTnlbSw1tlbVHzJMQaY5OeYUd6RmYwO7hOoGddDQ==" length="7846280" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.2.7</title>
       <pubDate>Fri, 27 Nov 2026 08:36:17 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
@@ -21,15 +30,6 @@
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <description>Volymtangenterna styr DDC-skärmar (t.ex. Philips 49M2C8900L) pålitligt igen: ett tillfälligt fel ger inte längre meddelandet 'Volymen styrs på skärmen', och alla DDC-kommandon mot en skärm går i tur och ordning.</description>
       <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.6.dmg" sparkle:edSignature="Gx1ijiSqLfXaSTAGf3A4q+JMZeKB+rGNojcqPvoI/hatHwvPMG+kaKTQXHU/0YHakW0M1MzG1Lz7lGRLxNpKCQ==" length="7775347" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.2.5</title>
-      <pubDate>Thu, 26 Nov 2026 17:05:16 GMT</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>Akut rättning: Displaykollen kunde hänga sig med tom meny och hög CPU när ljudet gick till MacBookens högtalare. Det är rättat. Appen startar nu bara en kopia, och om den ändå skulle hänga sig erbjuder nästa start Skicka felrapport med en hängningsrapport.</description>
-      <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.5.dmg" sparkle:edSignature="Up55TGh39qldfFnNPC6GCOxrXls7VpHwfrP3DBH7sulPgkbe6B/xLBmLpia2Ga8BMLKlKPvtrTn7E091oBsBBA==" length="7754867" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
