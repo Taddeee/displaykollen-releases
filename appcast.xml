@@ -5,6 +5,15 @@
     <description>Uppdateringar för Displaykollen</description>
     <language>sv</language>
     <item>
+      <title>Version 0.2.7</title>
+      <pubDate>Fri, 27 Nov 2026 08:36:17 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Inga fler lila/magenta ytor på Samsung-plattan: nyckelbild skickas direkt när bilden börjar röra sig igen, efter väckning och vid codec-byte, och plattan begär en ny nyckelbild och visar senaste goda bild vid avkodarfel.</description>
+      <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.7.dmg" sparkle:edSignature="Wp1ZsVTL2aS611055QDRj4DqqOD3IvvE8jjZOQjjIKBgIe2NT1q15SIkCSo/SCwnxjwvtAtX9ufgDGq2WwMtBQ==" length="7813380" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.2.6</title>
       <pubDate>Thu, 26 Nov 2026 23:19:34 GMT</pubDate>
       <sparkle:version>8</sparkle:version>
@@ -21,15 +30,6 @@
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <description>Akut rättning: Displaykollen kunde hänga sig med tom meny och hög CPU när ljudet gick till MacBookens högtalare. Det är rättat. Appen startar nu bara en kopia, och om den ändå skulle hänga sig erbjuder nästa start Skicka felrapport med en hängningsrapport.</description>
       <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.5.dmg" sparkle:edSignature="Up55TGh39qldfFnNPC6GCOxrXls7VpHwfrP3DBH7sulPgkbe6B/xLBmLpia2Ga8BMLKlKPvtrTn7E091oBsBBA==" length="7754867" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.2.4</title>
-      <pubDate>Thu, 26 Nov 2026 13:24:05 GMT</pubDate>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>Plattans riktiga ljusstyrka styrs nu från Macen (reglage, ljusstyrketangenter och kortkommandon), med knappen Följ plattans egen ljusstyrka. Volymreglaget är tillbaka på skärmkorten. Menyfönstret hoppar inte längre när en skärmmodul fälls ut eller när du klickar i den. Uppdatera Macen före plattan.</description>
-      <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.4.dmg" sparkle:edSignature="ZM/XTvOtN2n+3UzCjJODgLVuHJwSoVZT0i15voa0/liD38epGtU39nu4YWjr89RxQmHsTnC3uh/tIIkQTHjzAQ==" length="7685601" type="application/octet-stream" />
     </item>
   </channel>
 </rss>

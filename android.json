@@ -1,8 +1,8 @@
 {
-  "version": "1.6.3",
-  "versionCode": 7,
-  "url": "https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/android/DisplaykollenSamsung-1.6.3.apk",
-  "sha256": "cf6a05118f84b48a028543185ebe176fb2a6f5f73febce8077c088bb94961d7d",
-  "notes_sv": "Plattans riktiga ljusstyrka styrs nu från Macen (reglage, ljusstyrketangenter och kortkommandon), med knappen Följ plattans egen ljusstyrka. Volymreglaget är tillbaka på skärmkorten. Menyfönstret hoppar inte längre när en skärmmodul fälls ut eller när du klickar i den. Uppdatera Macen före plattan.",
-  "notes_en": "The tablet's real brightness is now controlled from the Mac (slider, brightness keys and shortcuts), with a Follow the tablet's own brightness button. The volume slider is back on the display cards. The menu window no longer jumps when a display module expands or when you click inside it. Update the Mac before the tablet."
+  "version": "1.6.4",
+  "versionCode": 8,
+  "url": "https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/android/DisplaykollenSamsung-1.6.4.apk",
+  "sha256": "de21d54bfcd81ed60bd0c9085d4f9221413a69e8557b43e94c1fa2189f89faab",
+  "notes_sv": "Inga fler lila/magenta ytor på Samsung-plattan: nyckelbild skickas direkt när bilden börjar röra sig igen, efter väckning och vid codec-byte, och plattan begär en ny nyckelbild och visar senaste goda bild vid avkodarfel.",
+  "notes_en": "No more purple/magenta areas on the Samsung tablet: a keyframe is sent as soon as the picture starts moving again, after wake and on codec switch, and the tablet requests a new keyframe and keeps the last good image on decoder errors."
 }
