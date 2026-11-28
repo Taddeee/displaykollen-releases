@@ -1,8 +1,8 @@
 {
-  "version": "1.6.4",
-  "versionCode": 8,
-  "url": "https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/android/DisplaykollenSamsung-1.6.4.apk",
-  "sha256": "de21d54bfcd81ed60bd0c9085d4f9221413a69e8557b43e94c1fa2189f89faab",
-  "notes_sv": "Inga fler lila/magenta ytor på Samsung-plattan: nyckelbild skickas direkt när bilden börjar röra sig igen, efter väckning och vid codec-byte, och plattan begär en ny nyckelbild och visar senaste goda bild vid avkodarfel.",
-  "notes_en": "No more purple/magenta areas on the Samsung tablet: a keyframe is sent as soon as the picture starts moving again, after wake and on codec switch, and the tablet requests a new keyframe and keeps the last good image on decoder errors."
+  "version": "1.6.5",
+  "versionCode": 9,
+  "url": "https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/android/DisplaykollenSamsung-1.6.5.apk",
+  "sha256": "9c84793494ff177bb694a5d1c1cf69d2a39ed958988a441ca0feb75783518f28",
+  "notes_sv": "Macen hittar nu plattor och telefoner över Wi-Fi igen, och du kan ansluta via IP-adress som reserv. Ny vilotimer per enhet (Aldrig, 1–8 timmar) låter plattan somna medan Macen är aktiv.",
+  "notes_en": "The Mac finds tablets and phones over Wi-Fi again, with manual IP connection as a fallback. A new per-device sleep timer (never, 1–8 hours) lets the tablet sleep while the Mac stays active."
 }

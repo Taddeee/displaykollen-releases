@@ -5,6 +5,15 @@
     <description>Uppdateringar för Displaykollen</description>
     <language>sv</language>
     <item>
+      <title>Version 0.2.9</title>
+      <pubDate>Sat, 28 Nov 2026 01:44:21 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Macen hittar nu plattor och telefoner över Wi-Fi igen, och du kan ansluta via IP-adress som reserv. Ny vilotimer per enhet (Aldrig, 1–8 timmar) låter plattan somna medan Macen är aktiv.</description>
+      <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.9.dmg" sparkle:edSignature="lLYpqUmSx7sGUi8ViDewOPm9hzYwPMwfNMABhPh8aT+fBk5sopho582I/oAXobPWAokBeHUMuupRol+7/kKiBg==" length="7919482" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.2.8</title>
       <pubDate>Fri, 27 Nov 2026 23:49:28 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
@@ -21,15 +30,6 @@
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <description>Inga fler lila/magenta ytor på Samsung-plattan: nyckelbild skickas direkt när bilden börjar röra sig igen, efter väckning och vid codec-byte, och plattan begär en ny nyckelbild och visar senaste goda bild vid avkodarfel.</description>
       <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.7.dmg" sparkle:edSignature="Wp1ZsVTL2aS611055QDRj4DqqOD3IvvE8jjZOQjjIKBgIe2NT1q15SIkCSo/SCwnxjwvtAtX9ufgDGq2WwMtBQ==" length="7813380" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 0.2.6</title>
-      <pubDate>Thu, 26 Nov 2026 23:19:34 GMT</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>Volymtangenterna styr DDC-skärmar (t.ex. Philips 49M2C8900L) pålitligt igen: ett tillfälligt fel ger inte längre meddelandet 'Volymen styrs på skärmen', och alla DDC-kommandon mot en skärm går i tur och ordning.</description>
-      <enclosure url="https://raw.githubusercontent.com/Taddeee/displaykollen-releases/main/mac/Displaykollen-0.2.6.dmg" sparkle:edSignature="Gx1ijiSqLfXaSTAGf3A4q+JMZeKB+rGNojcqPvoI/hatHwvPMG+kaKTQXHU/0YHakW0M1MzG1Lz7lGRLxNpKCQ==" length="7775347" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
